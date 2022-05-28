@@ -1,0 +1,28 @@
+body{
+    background: #861846;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.container{
+    margin: 10px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imagen{
+    margin-top:5px;
+    background-color: white;
+    width:160px ;
+    height: 160px;
+    border-radius: 90px;
+}
+
+.imagen img{
+    margin-top: 20px;
+    width: 180px;
+}
+
+.informacion{
+    text-align: right;
+}

@@ -1,0 +1,19 @@
+body{
+    background: #ffffff;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    padding-top: 75px;
+}
+
+.texto{
+    width: 40%;
+}
+
+.imagen{
+    width: 40%;
+}
